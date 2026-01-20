@@ -7,8 +7,7 @@ A simple Weather App that shows the current weather for any city.
 - Responsive design
 
 ## Screenshot
-![Weather App Screenshot]
-(screenshot.png)
+![Weather App Screenshot](screenshot.png)
 
 ## Live Demo
 Check it online here: 
